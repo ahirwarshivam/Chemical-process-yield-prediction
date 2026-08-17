@@ -200,7 +200,7 @@ This project was developed collaboratively as part of the **ML Hackathon**.
 ### Team Members
 
 - **Shivam Ahirwar** — [GitHub Profile](https://github.com/ahirwarshivam)
-- **Sudhanshu Pandey ** — [GitHub Profile](#)
+- **Sudhanshu Pandey 2** — [GitHub Profile](#)
 - **Priyanshu Gupta 3** — [GitHub Profile](https://github.com/Priyanshu-iitkgp)
 
 ## Future Improvements
