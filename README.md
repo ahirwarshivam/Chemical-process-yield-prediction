@@ -1,6 +1,6 @@
 # Chemical Process Yield Prediction
 
-## Overvie
+## Overview
 
 This project was developed as part of an ML Hackathon. The objective was to build a Machine Learning regression model to predict the overall yield of a chemical process based on its operating conditions.
 
